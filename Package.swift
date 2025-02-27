@@ -4,6 +4,8 @@
 //
 //  Created by Yahya Marshoud on 27/02/2025.
 //
+// swift-tools-version:5.1
+
 import PackageDescription
 
 let package = Package(
