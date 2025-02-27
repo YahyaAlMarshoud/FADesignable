@@ -139,6 +139,7 @@
 		84D7AC9883D53E23562E3BA2A9087E9A /* FAImageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FAImageView.h; sourceTree = "<group>"; };
 		87F7943208D8D8C34BCD032CE098BD97 /* FATextField.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FATextField.m; sourceTree = "<group>"; };
 		892BC16B4894E636B9A4E530B01E19AE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9152C87A2D708A68000831C2 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		949F77E14C06DC4F9229E05C720BF001 /* NSString+FATextDirection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+FATextDirection.h"; sourceTree = "<group>"; };
 		98E89EEFD8B1B1D71546D0EB33914C42 /* UITextView+Placeholder.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "UITextView+Placeholder.xcconfig"; sourceTree = "<group>"; };
@@ -332,6 +333,7 @@
 			isa = PBXGroup;
 			children = (
 				7E91AA4054EA0F6FC12BE8CBF48C7FBD /* FADesignable.podspec */,
+				9152C87A2D708A68000831C2 /* Package.swift */,
 				5654CFB60C45898FA869F3D8D9AAFF3E /* LICENSE */,
 				12CF9FB190E247FB4C17921DE79A4AF3 /* README.md */,
 			);
@@ -581,6 +583,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
